@@ -1,6 +1,6 @@
 package lexer
 
-import "github.com/akiokio/akio-interpreter/token"
+import "github.com/akiokio/akio-lang/token"
 
 type Lexer struct {
 	input        string
